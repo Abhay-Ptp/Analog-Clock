@@ -17,4 +17,4 @@ Open the index.html file in your web browser.
 Enjoy the timeless beauty of the clock!
 
 Contributions:
-Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to help improve this project.
+Contributions are welcomed! Feel free to submit issues, feature requests, or pull requests to help improve this project.
